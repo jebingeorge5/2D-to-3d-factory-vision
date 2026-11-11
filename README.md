@@ -16,3 +16,23 @@ Used AI tools to enhance and transform the original layout.
 **Final Output** : A 3D visual representation of a blinds and curtains manufacturing factory layout, developed from an original 2D floor plan.
 
 **Project Vision** : Demonstrating practical applications of AI in manufacturing visualization, industrial design and business presentations.
+
+
+
+---
+
+## Factory Layout – 2D to 3D Visualization
+
+This project demonstrates the transformation and visualization of a blinds and curtains manufacturing facility, using AI-assisted 3D image generation.
+
+### 1. Factory Layout and Workflow Diagram
+
+![BCCW Factory Layout](images/BCCW%20factory%20layout%20and%20flow%20diagram.png)
+
+### 2. Factory Visualization – Image 1
+
+![Factory Visualization 1](images/WhatsApp%20Image%202026-07-20%20at%2011.29.27%20AM%20%281%29.jpeg)
+
+### 3. Factory Visualization – Image 2
+
+![Factory Visualization 2](images/b375225d-a859-484e-b835-c1f0b59fa187.png)
